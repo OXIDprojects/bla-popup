@@ -3,8 +3,6 @@ by  bestlife AG <oxid@bestlife.ag>
 https://github.com/vanilla-thunder/bla-popup
 ### module version 1.4.0
 
-## more info here: [http:/marat.ws/bla-piwik-analytics-fuer-oxid-eshop/](http:/marat.ws/bla-piwik-analytics-fuer-oxid-eshop/)
-
 ### LICENSE AGREEMENT
    simple Popup for OXID eShop CE  
    Copyright (C) 2016 bestlife AG  
