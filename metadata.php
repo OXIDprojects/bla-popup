@@ -1,9 +1,8 @@
 <?php
-
 /**
- * Popup for OXID eShop
- * Copyright (C) 2016  bestlife AG
- * info:  oxid@bestlife.ag
+ * ###_MODULE_###
+ * Copyright (C) ###_YEAR_###  ###_COMPANY_###
+ * info:  ###_EMAIL_###
  *
  * This program is free software;
  * you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation;
@@ -26,10 +25,10 @@ $aModule          = array(
     'title'       => '<strong style="color:#95b900;font-size:125%;">best</strong><strong style="color:#c4ca77;font-size:125%;">life</strong> <strong>Pop-Up</strong>',
     'description' => 'Popup für den ersten Seitenbesuch. Session-basiert',
     'thumbnail'   => 'bestlife.png',
-    'version'     => '1.4 (2016-09-11)',
-    'author'      => 'bestliffe AG',
-    'email'       => 'oxid@bestliffe.ag',
-    'url'         => 'http://www.bestliffe.ag',
+    'version'     => '###_VERSION_###',
+    'author'      => '###_AUTHOR_### ###_COMPANY_###',
+    'email'       => '###_EMAIL_###',
+    'url'         => '###_URL_###',
     'extend'      => array(
         'oxviewconfig'         => 'bla/bla-popup/oxviewconfig_popup',
     ),

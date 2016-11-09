@@ -1,0 +1,25 @@
+{
+  "name": "bla-popup-dev",
+  "version": "1.4.0",
+  "description": "simple Popup for OXID eShop CE",
+  "author": "",
+  "company": "bestlife AG",
+  "email": "oxid@bestlife.ag",
+  "url" : "https://github.com/vanilla-thunder/bla-popup",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vanilla-thunder/bla-popup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanilla-thunder/bla-popup/issues"
+  },
+  "keywords": [
+    "popup",
+    "oxid"
+  ],
+  "dependencies": {
+    "replace": "*",
+    "request": "*"
+  }
+}
