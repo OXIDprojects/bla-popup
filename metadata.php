@@ -1,7 +1,6 @@
 <?php
-
 /**
- * Popup for OXID eShop
+ * simple Popup for OXID eShop CE
  * Copyright (C) 2016  bestlife AG
  * info:  oxid@bestlife.ag
  *
@@ -26,10 +25,10 @@ $aModule          = array(
     'title'       => '<strong style="color:#95b900;font-size:125%;">best</strong><strong style="color:#c4ca77;font-size:125%;">life</strong> <strong>Pop-Up</strong>',
     'description' => 'Popup für den ersten Seitenbesuch. Session-basiert',
     'thumbnail'   => 'bestlife.png',
-    'version'     => '1.4 (2016-09-11)',
-    'author'      => 'bestliffe AG',
-    'email'       => 'oxid@bestliffe.ag',
-    'url'         => 'http://www.bestliffe.ag',
+    'version'     => '1.4.0',
+    'author'      => ' bestlife AG',
+    'email'       => 'oxid@bestlife.ag',
+    'url'         => 'https://github.com/vanilla-thunder/bla-popup',
     'extend'      => array(
         'oxviewconfig'         => 'bla/bla-popup/oxviewconfig_popup',
     ),
