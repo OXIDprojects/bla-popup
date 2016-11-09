@@ -61,7 +61,7 @@ process.on('exit', function (code) {
     // copy module to master
     shell("cp -r _module _master/copy_this/modules/bla/bla-popup");
     shell("rm -rf _master/copy_this/modules/bla/bla-popup/.git");
-    shell("cp _module/README _master/README");
+    shell("cp _module/README.md _master/README.md");
     console.log("");
     console.log("     build complete! made my day!");
     console.log("");

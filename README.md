@@ -3,8 +3,6 @@ by ###_AUTHOR_### ###_COMPANY_### <###_EMAIL_###>
 ###_URL_###
 ### module version ###_VERSION_###
 
-## more info here: [http:/marat.ws/bla-piwik-analytics-fuer-oxid-eshop/](http:/marat.ws/bla-piwik-analytics-fuer-oxid-eshop/)
-
 ### LICENSE AGREEMENT
    ###_MODULE_###  
    Copyright (C) ###_YEAR_### ###_COMPANY_###  
